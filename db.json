@@ -1,11 +1,5 @@
 {
-  "posts": [
-    {
-      "id": "a",
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "sheetNames": [
+    "source","journals","log","chart"
+  ]
 }
